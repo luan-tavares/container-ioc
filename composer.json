@@ -1,0 +1,15 @@
+{
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App",
+            "Container\\": "Container"
+        },
+        "files": [
+            "helpers\\helpers.php"
+        ],
+        "classmap": [
+            "App\\"
+        ]
+    }
+}
